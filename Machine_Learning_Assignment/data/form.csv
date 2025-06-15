@@ -1,2 +1,11 @@
-
-C:\Users\LENOVO\Documents\GitHub\ArewaDS-Machine-Learning\data\form.csv
+birth_month,state,pet
+January        ,,Cats
+JAN,CA,Cats
+Sept,Hawaii,Dog
+January,AK,Dog
+July,RI,Cats
+September,California,Cats
+April,CA,Dog
+January,California,Cats
+November,FL,Dog
+December,Florida,Cats
